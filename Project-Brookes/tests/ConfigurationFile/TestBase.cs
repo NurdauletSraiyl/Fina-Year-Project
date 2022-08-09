@@ -16,7 +16,7 @@ namespace Project_Brookes.Tests.ConfigurationFile
         [TearDown]
         public void TeardownTest()
         {
-            App.Driver.Quit();
+            //App.Driver.Quit();
         }
     }
 }
